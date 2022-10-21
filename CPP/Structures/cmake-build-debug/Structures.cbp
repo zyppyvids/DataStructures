@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Structures"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Structures">
+				<Option output="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Structures" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 Structures"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Structures/fast">
+				<Option output="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Structures" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 Structures/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Common/MultiNode.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Common/SingularNode.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/List/LinkedList.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Queue/DynamicQueue.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Queue/Queue.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Stack/DynamicStack.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Stack/Stack.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/Tree/DistinctTree.h">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/main.cpp">
+			<Option target="Structures"/>
+		</Unit>
+		<Unit filename="/Users/emilyordanov/Public/EmilFolder/EmilDocuments/Uni/3_курс/СДП_(2_курс)/Structures/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
