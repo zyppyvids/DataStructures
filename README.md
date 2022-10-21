@@ -21,7 +21,8 @@ Depends on the language you choose to start the structures in. Generally just bu
 None currently. ;)
 
 ### Contribution
-The default guidelines: [you think you know more than me] -> [you make a fork] -> [you fix a bug] -> [you make a PR] -> [if you are correct I accept, if not I decline]
+The default guidelines: 
+* [you think you know more than me] -> [you make a fork] -> [you fix a bug] -> [you make a PR] -> [if you are correct I accept, if not I decline]
 
 ### Test-Instructions
 Again, depends on the language.
